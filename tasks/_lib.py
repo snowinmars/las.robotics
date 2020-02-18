@@ -1,4 +1,5 @@
 import numpy
+from dataclasses import dataclass
 
 
 def create_random_array(length=10):
@@ -36,3 +37,17 @@ def build_triangle(height, offset=0):
         builder.append('\n')
 
     return ''.join(builder)
+
+
+@dataclass
+class User:
+    # https://habr.com/en/post/140581/
+    # example purpose only
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def print(self):
+        print(f'Name: {self.name}')
+        print(f'Age: {self.age}')
