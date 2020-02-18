@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\plugins\python-ce\helpers\python-skeletons" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\plugins\python-ce\helpers\typeshed\stdlib\2and3" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\plugins\python-ce\helpers\typeshed\stdlib\3" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\plugins\python-ce\helpers\typeshed\third_party\2and3" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\config\plugins\python-ce\helpers\typeshed\third_party\3" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\system\python_stubs\-585288662" t="IncludeRecursive" />
+    <e p="C:\Users\snowinmars\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_las.robotics.1823158937.00" t="ExcludeRecursive" />
+    <e p="D:\prg\las.robotics" t="IncludeFlat">
+      <e p="las.robotics.sln" t="IncludeFlat" />
+    </e>
+    <e p="D:\Program Files\Python\Python38-32" t="IncludeRecursive">
+      <e p="DLLs" t="IncludeRecursive" />
+      <e p="Lib" t="IncludeRecursive">
+        <e p="site-packages" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
