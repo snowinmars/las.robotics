@@ -62,6 +62,11 @@
 
 ## Программа IT
 
+Выбор технологий основан на моём личном опыте и ежегодной статистике StackOverflow.
+- [2019](https://insights.stackoverflow.com/survey/2019)
+- [2018](https://insights.stackoverflow.com/survey/2018)
+- [2017](https://insights.stackoverflow.com/survey/2017)
+
 
 ### Лекция 1. Философия
 
