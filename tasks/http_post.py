@@ -1,13 +1,16 @@
 import requests
 
-uri = 'https://httpbin.org/post'
+def main():
+	uri = 'https://httpbin.org/post'
 
-todo = {
-    'id': 1,
-    'title': 'custom title',
-    'completed': True
-}
+	todo = {
+	    'id': 1,
+	    'title': 'custom title',
+	    'completed': True
+	}
 
-response = requests.post(uri, data=todo)
+	response = requests.post(uri, data=todo)
 
-print(response)
+	print(response)
+
+main()

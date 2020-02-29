@@ -1,12 +1,15 @@
 import math
 
-number = None
+def main():
+	number = None
 
-while number is None:
-    answer = input("Enter a number: ")
-    number = float(answer)
+	while number is None:
+	    answer = input("Enter a number: ")
+	    number = float(answer)
 
-if number < 0:
-    raise Exception(f'{number} is less them zero, cant calculate a real square')
+	if number < 0:
+	    raise Exception(f'{number} is less them zero, cant calculate a real square')
 
-print(math.sqrt(number))
+	print(math.sqrt(number))
+
+main()

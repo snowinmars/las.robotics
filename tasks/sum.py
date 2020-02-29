@@ -1,7 +1,10 @@
-lhs = 2
-rhs = 1000
+def main():
+	lhs = 1
+	rhs = 1000
 
-length = abs(lhs - rhs) + 1
-sum = (lhs + rhs) * length / 2
+	length = abs(lhs - rhs) + 1
+	sum = (lhs + rhs) * length / 2
 
-print(sum)
+	print(sum)
+
+main()
