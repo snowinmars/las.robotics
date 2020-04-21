@@ -37,6 +37,8 @@ LaTeX - это язык текстовой разметки. Его исполь
 
 Вот [краткое описание синтаксиса](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B).
 
+Вот [онлайн редактор](https://codesandbox.io/embed/vue-template-oedlx?fontsize=14&hidenavigation=1&theme=dark).
+
 **Пример: 3.72.**
 
 ```
